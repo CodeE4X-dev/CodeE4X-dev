@@ -3,16 +3,7 @@
 </div>
 
 <div align="center">
-  <img 
-    src="3b4ac1934f8061356355542ee931b573.jpg" 
-    alt="Profile Picture" 
-    width="150" 
-    style="
-      border-radius: 50%; 
-      box-shadow: 0 0 15px rgba(0, 123, 255, 0.8), 0 0 30px rgba(0, 123, 255, 0.5);
-      border: 2px solid rgba(0, 123, 255, 0.7);
-    " 
-  />
+
   <h3>Hi, I'm CodeE4X 👋</h3>
   <p>Solo Developer | Scripts Developer | Python Developer(api)</p>
 </div>
@@ -20,16 +11,17 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 **Currently Working On**: [Your Current Project]  
-- 🌱 **Learning**: [Technologies or Topics You're Learning]  
-- 💡 **Interests**: [Your Interests or Hobbies]  
-- 💬 **Ask Me About**: [Your Expertise or Interests]  
+- 🎩 **Introvert:** Some people call me introvert :)  
+- 🙏 **Friends:** So hard to get **real** friends  
+- 🤡 **Girlfriend:** I've broken up with one girl, and now lonely again 🙏🗣️  
+- 🤑 **Money:** I earn $4k/Month, don’t ask how I get it  
+- 🗣️ **People Think:** People call me like a guy  
 
 ---
 
 <div align="center">
   <h2>🛠️ Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,lua,react" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,lua,html,css,js,c,cpp,cs" alt="Skills" />
 </div>
 
 ---
@@ -37,16 +29,16 @@
 ## 📫 Connect with Me  
 
 <div align="center">
-  <a href="[Your Discord Link]" target="_blank">
+  <a href="https://discord.gg/5gE6J4Jftj" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="[Your GitHub Link]" target="_blank">
+  <a href="https://github.com/CodeE4X-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[Your Instagram Link]" target="_blank">
+  <a href="https://instagram.com/screaminout_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[Your YouTube Link]" target="_blank">
+  <a href="https://youtube.com/@Sky_25ms" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
@@ -56,11 +48,11 @@
 ## 📂 Featured Projects  
 
 <div align="center">
-  <a href="[Project 1 Link]" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Project 1" />
+  <a href="[shesss]" target="_blank">
+    <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Shesshhh" />
   </a>
   <a href="[Project 2 Link]" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=Project+2" alt="Project 2" />
+    <img src="https://via.placeholder.com/400x200?text=Project+2" alt="Sheessss" />
   </a>
 </div>
 
@@ -68,9 +60,7 @@
 
 ## 🎯 Goals  
 
-- Build meaningful open-source contributions  
-- Collaborate on exciting new ideas  
-- Continue learning and improving every day  
+- Getting wife/gf im 25 lol 
 
 ---
 
