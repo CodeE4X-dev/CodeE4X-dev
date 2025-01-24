@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="3b4ac1934f8061356355542ee931b573.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
   <h3>Hi, I'm CodeE4X 👋</h3>
   <p>Solo Developer | Scripts Developer | Python Developer(api)</p>
 </div>
