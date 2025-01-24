@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
+  <img src="dadb379aeb49e2e236ecf289bfcdcf80.jpg" alt="Banner" />
 </div>
 
-# 🌌 Welcome to My GitHub Profile!
+
 
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-  <h3>Hi, I'm [Your Name] 👋</h3>
-  <p>Passionate Developer | Technology Enthusiast | Lifelong Learner</p>
+  <h3>Hi, I'm CodeE4X 👋</h3>
+  <p>Solo Developer | Scripts Developer | Python Developer(api)</p>
 </div>
 
 ---
