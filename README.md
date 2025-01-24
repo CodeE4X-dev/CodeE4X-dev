@@ -2,10 +2,17 @@
   <img src="dadb379aeb49e2e236ecf289bfcdcf80.jpg" alt="Banner" />
 </div>
 
-
-
 <div align="center">
-  <img src="3b4ac1934f8061356355542ee931b573.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img 
+    src="3b4ac1934f8061356355542ee931b573.jpg" 
+    alt="Profile Picture" 
+    width="150" 
+    style="
+      border-radius: 50%; 
+      box-shadow: 0 0 15px rgba(0, 123, 255, 0.8), 0 0 30px rgba(0, 123, 255, 0.5);
+      border: 2px solid rgba(0, 123, 255, 0.7);
+    " 
+  />
   <h3>Hi, I'm CodeE4X 👋</h3>
   <p>Solo Developer | Scripts Developer | Python Developer(api)</p>
 </div>
