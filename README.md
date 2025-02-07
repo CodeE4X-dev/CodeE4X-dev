@@ -14,7 +14,7 @@
 - 🎩 **Introvert:** Some people call me introvert :)  
 - 🙏 **Friends:** So hard to get **real** friends  
 - 🤡 **Girlfriend:** I've broken up with one girl, and now lonely again 🙏🗣️  
-- 🤑 **Money:** I earn $4k/Month, don’t ask how I get it  
+- 🤑 **Money:** I earn $8k/Month, don’t ask how I get it  
 - 🗣️ **People Think:** People call me like a guy  
 
 ---
