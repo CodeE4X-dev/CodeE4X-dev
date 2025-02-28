@@ -61,7 +61,7 @@
 
 ## 🎯 Goals  
 
-- Getting wife/gf im 25 lol 
+- Getting Rzzed
 
 ---
 
