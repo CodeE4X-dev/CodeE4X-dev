@@ -13,7 +13,7 @@
 ## 🌟 About Me  
 - 🎩 **Introvert:** Some people call me introvert :)  
 - 🙏 **Friends:** So hard to get **real** friends  
-- 🤡 **Girlfriend:** I've broken up with one girl, and now lonely again 🙏🗣️  
+- 🤡 **Sigma:** yh im sigma
 - 🤑 **Money:** I earn $8k/Month, I Work Become REDACTED Hat Hacker
 - 🗣️ **People Think:** People call me like a guy  
 - my prog language is over 16+ so i fckng lazy
