@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="dadb379aeb49e2e236ecf289bfcdcf80.jpg" alt="Banner" />
-</div>
 
-<div align="center">
 
   <h3>Hi, I'm CodeE4X 👋</h3>
   <p>Solo Developer | Scripts Developer | Python Developer(api)</p>
@@ -11,19 +7,10 @@
 ---
 
 ## 🌟 About Me  
-- 🎩 **Introvert:** Some people call me introvert :)  
-- 🙏 **Friends:** So hard to get **real** friends  
-- 🤡 **Sigma:** yh im sigma
-- 🤑 **Money:** I earn $8k/Month, I Work Become REDACTED Hat Hacker
-- 🗣️ **People Think:** People call me like a guy  
-- my prog language is over 16+ so i fckng lazy
+go to github.com/Cri-xyz
 
 ---
 
-<div align="center">
-  <h2>🛠️ Skills</h2>
-  <img src="https://skillicons.dev/icons?i=python,lua,html,css,js,c,cpp,cs" alt="Skills" />
-</div>
 
 ---
 
